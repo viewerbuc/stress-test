@@ -1,1 +1,9 @@
-package stress_test
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println(111)
+}
