@@ -18,7 +18,6 @@ func main() {
 	//}
 	//time.Sleep(1 * time.Second)
 	fmt.Print(1111)
-	fmt.Print(2222)
 	fmt.Print(55555)
 	fmt.Print(66666)
 	ch := make(chan string)
