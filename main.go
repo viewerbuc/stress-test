@@ -17,7 +17,8 @@ func main() {
 	//	fmt.Println(code)
 	//}
 	//time.Sleep(1 * time.Second)
-	fmt.Print(1111)
+	fmt.Print(11111)
+	fmt.Print(33333)
 	fmt.Print(2222)
 	ch := make(chan string)
 	for i := 0; i < 10; i++ {
