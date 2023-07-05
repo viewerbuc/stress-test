@@ -18,6 +18,7 @@ func main() {
 	//}
 	//time.Sleep(1 * time.Second)
 	fmt.Print(1111)
+	fmt.Print(2222)
 	ch := make(chan string)
 	for i := 0; i < 10; i++ {
 		go request.TestConnect(ch)
