@@ -21,6 +21,7 @@ func main() {
 	fmt.Print(33333)
 	fmt.Print(2222)
 	fmt.Print(55555)
+	fmt.Print(66666)
 	ch := make(chan string)
 	for i := 0; i < 10; i++ {
 		go request.TestConnect(ch)
