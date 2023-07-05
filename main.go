@@ -17,8 +17,7 @@ func main() {
 	//	fmt.Println(code)
 	//}
 	//time.Sleep(1 * time.Second)
-	fmt.Print(11111)
-	fmt.Print(33333)
+	fmt.Print(1111)
 	fmt.Print(2222)
 	fmt.Print(55555)
 	fmt.Print(66666)
